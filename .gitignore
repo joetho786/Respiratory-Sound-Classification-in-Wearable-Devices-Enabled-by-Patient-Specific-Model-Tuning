@@ -1,0 +1,10 @@
+env
+ICBHI_final_database/
+venv
+plots/
+saved_models/
+.git/
+__pycache__/
+.ipynb_checkpoints/
+
+
